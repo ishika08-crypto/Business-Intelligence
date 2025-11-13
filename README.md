@@ -1,3 +1,6 @@
+<img width="793" height="673" alt="image" src="https://github.com/user-attachments/assets/aabd0858-fd0d-4399-958d-31faec273dd5" />
+
+
 Sales Overview Dashboard
 
 This dashboard provides a comprehensive visualization of sales performance across different regions, categories, and segments. It consolidates key business metrics to track profitability, sales trends, and customer behavior.
@@ -41,8 +44,4 @@ Consumer Segment: Largest in sales quantity and profit.
 Corporate Segment: Moderate profit, strong sales in Furniture.
 
 Home Office: Lowest overall contribution.
-
-<img width="793" height="673" alt="image" src="https://github.com/user-attachments/assets/934b4c4a-8815-41d2-b3fe-cbfefcdc71b3" />
-
-
 Sales distributed across U.S. regions, with notable performance in key states like California, Texas, and New York.
