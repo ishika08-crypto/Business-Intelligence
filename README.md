@@ -42,6 +42,7 @@ Corporate Segment: Moderate profit, strong sales in Furniture.
 
 Home Office: Lowest overall contribution.
 
-🌍 Geographical Insights
+<img width="793" height="673" alt="image" src="https://github.com/user-attachments/assets/934b4c4a-8815-41d2-b3fe-cbfefcdc71b3" />
+
 
 Sales distributed across U.S. regions, with notable performance in key states like California, Texas, and New York.
